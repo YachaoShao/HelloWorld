@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+CPlus/test.cpp
+MPI_hello.c
+cmake-build-debug/
